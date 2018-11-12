@@ -1,10 +1,12 @@
-# PhpBB Extension - toxyy Show User Activity v1.0
+# PhpBB Extension - toxyy Show User Activity v1.0.0
 
 ## Requirements
 
 phpBB 3.2.5-RC1+ PHP 7+
 
 ## Features
+
+Adds config option in Board Features for showing user forum and topic activity on user profiles
 
 ## Screenshot
 
