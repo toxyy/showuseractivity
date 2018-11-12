@@ -1,0 +1,8 @@
+services:
+    toxyy.showuseractivity.listener:
+        class: toxyy\showuseractivity\event\listener
+        arguments:
+            - '@config'
+            - '@language'
+        tags:
+            - { name: event.listener }

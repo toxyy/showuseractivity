@@ -1,0 +1,31 @@
+{
+	"name": "toxyy/showuseractivity",
+	"type": "phpbb-extension",
+	"description": "Show User Activity config options in phpbb 3.2",
+	"homepage": "https://github.com/toxyy/showuseractivity",
+	"version": "1.0.0",
+	"time": "2018-11-11",
+	"keywords": ["phpbb", "extension", "activity", "user activity"],
+	"license": "GPL-2.0",
+	"authors": [{
+			"name": "toxyy",
+			"email": "thrashtek@yahoo.com",
+			"homepage": "https://github.com/toxyy/",
+			"role": "Developer"
+		}],
+	"require": {
+		"php": ">=7"
+	},
+	"extra": {
+		"display-name": "Show User Activity",
+		"soft-require": {
+			"phpbb/phpbb": ">=3.2"
+		},
+		"version-check": {
+			"host": "toxyy.github.io",
+			"directory": "/version",
+			"filename": "showuseractivity.json",
+                        "ssl": 1
+		}
+	}
+}
