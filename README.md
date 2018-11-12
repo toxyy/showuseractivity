@@ -15,6 +15,7 @@ Adds config option in `Board Features` for showing user forum and topic activity
 ## Screenshot
 
 ![alt text](https://image.ibb.co/nsxjhq/1mqKC9.png)
+![alt text](https://image.ibb.co/cbQvNq/gTS1WM.png)
 
 ## Quick Install
 
