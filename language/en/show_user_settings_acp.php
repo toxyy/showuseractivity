@@ -19,6 +19,6 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, [
-	'ACP_SHOW_USER_ACTIVITY'            => 'Allow user activity',
-	'ACP_SHOW_USER_ACTIVITY_EXPLAIN'    => 'Enable showing user forum and topic activity in the User Control Panel',
+	'ACP_SHOW_USER_ACTIVITY'            => 'Allow user activity in profile',
+	'ACP_SHOW_USER_ACTIVITY_EXPLAIN'    => 'Enable showing user most active forum and topic in the User Profile',
 ]);
