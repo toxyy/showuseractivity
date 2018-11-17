@@ -3,8 +3,8 @@
 	"type": "phpbb-extension",
 	"description": "Show User Activity config options in phpbb 3.2",
 	"homepage": "https://github.com/toxyy/showuseractivity",
-	"version": "1.0.0",
-	"time": "2018-11-11",
+	"version": "1.0.1",
+	"time": "2018-11-17",
 	"keywords": ["phpbb", "extension", "activity", "user activity"],
 	"license": "GPL-2.0",
 	"authors": [{
